@@ -75,17 +75,18 @@ const GithubProvider = ({ children }) => {
   useEffect(() => {
     searchGithubUser('john-smilga');
   }, []);
+
   return (
     <GithubContext.Provider
-      value={{
-        githubUser,
-        repos,
-        followers,
-        requests,
-        error,
-        searchGithubUser,
-        isLoading,
-      }}
+        value={{
+            githubUser,
+            repos,
+            followers,
+            requests,
+            error,
+            searchGithubUser,
+            isLoading,
+        }}
     >
       {children}
     </GithubContext.Provider>
