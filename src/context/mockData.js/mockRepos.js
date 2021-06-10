@@ -15,17 +15,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -35,72 +35,72 @@ export default [
     url: "https://api.github.com/repos/john-smilga/bazinga-example",
     forks_url: "https://api.github.com/repos/john-smilga/bazinga-example/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/bazinga-example/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/bazinga-example/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/events",
+        "https://api.github.com/repos/john-smilga/bazinga-example/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/bazinga-example/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/languages",
+        "https://api.github.com/repos/john-smilga/bazinga-example/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/stargazers",
+        "https://api.github.com/repos/john-smilga/bazinga-example/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/contributors",
+        "https://api.github.com/repos/john-smilga/bazinga-example/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/subscribers",
+        "https://api.github.com/repos/john-smilga/bazinga-example/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/subscription",
+        "https://api.github.com/repos/john-smilga/bazinga-example/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/merges",
+        "https://api.github.com/repos/john-smilga/bazinga-example/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/downloads",
+        "https://api.github.com/repos/john-smilga/bazinga-example/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/issues{/number}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/labels{/name}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/releases{/id}",
+        "https://api.github.com/repos/john-smilga/bazinga-example/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/deployments",
+        "https://api.github.com/repos/john-smilga/bazinga-example/deployments",
     created_at: "2020-02-08T16:30:10Z",
     updated_at: "2020-05-12T15:57:33Z",
     pushed_at: "2020-02-08T16:30:48Z",
@@ -145,17 +145,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -164,76 +164,76 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/boot-sweets-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/forks",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/teams",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/hooks",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/events",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/boot-sweets-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/languages",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/contributors",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/subscription",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/merges",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/downloads",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/boot-sweets-setup/deployments",
+        "https://api.github.com/repos/john-smilga/boot-sweets-setup/deployments",
     created_at: "2018-10-21T22:39:19Z",
     updated_at: "2020-02-04T17:11:04Z",
     pushed_at: "2018-10-21T22:39:44Z",
@@ -278,17 +278,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -297,77 +297,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/bootstrap-car-dealership",
     forks_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/forks",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/teams",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/hooks",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/events",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/tags",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/languages",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/stargazers",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/contributors",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/subscribers",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/subscription",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/merges",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/downloads",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/issues{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/labels{/name}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/releases{/id}",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/deployments",
+        "https://api.github.com/repos/john-smilga/bootstrap-car-dealership/deployments",
     created_at: "2019-12-02T03:42:37Z",
     updated_at: "2020-06-10T17:40:10Z",
     pushed_at: "2019-12-02T03:42:54Z",
@@ -412,17 +412,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -430,86 +430,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece",
     forks_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/forks",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/teams",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/hooks",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/events",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/tags",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/languages",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/stargazers",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/contributors",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/subscribers",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/subscription",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/merges",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/downloads",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/issues{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/labels{/name}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/releases{/id}",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/deployments",
+        "https://api.github.com/repos/john-smilga/bootstrap-furniture-e-commrece/deployments",
     created_at: "2018-12-10T07:44:30Z",
     updated_at: "2019-10-11T18:18:31Z",
     pushed_at: "2018-12-10T07:45:08Z",
     git_url: "git://github.com/john-smilga/bootstrap-furniture-e-commrece.git",
     ssh_url: "git@github.com:john-smilga/bootstrap-furniture-e-commrece.git",
     clone_url:
-      "https://github.com/john-smilga/bootstrap-furniture-e-commrece.git",
+        "https://github.com/john-smilga/bootstrap-furniture-e-commrece.git",
     svn_url: "https://github.com/john-smilga/bootstrap-furniture-e-commrece",
     homepage: null,
     size: 3544,
@@ -548,17 +548,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -566,87 +566,87 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/forks",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/teams",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/hooks",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/events",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/tags",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/languages",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/stargazers",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/contributors",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/subscribers",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/subscription",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/merges",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/downloads",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/deployments",
+        "https://api.github.com/repos/john-smilga/bootstrap-only-bootstrap-project/deployments",
     created_at: "2019-01-20T17:40:24Z",
     updated_at: "2019-10-11T18:17:23Z",
     pushed_at: "2019-01-20T17:45:13Z",
     git_url:
-      "git://github.com/john-smilga/bootstrap-only-bootstrap-project.git",
+        "git://github.com/john-smilga/bootstrap-only-bootstrap-project.git",
     ssh_url: "git@github.com:john-smilga/bootstrap-only-bootstrap-project.git",
     clone_url:
-      "https://github.com/john-smilga/bootstrap-only-bootstrap-project.git",
+        "https://github.com/john-smilga/bootstrap-only-bootstrap-project.git",
     svn_url: "https://github.com/john-smilga/bootstrap-only-bootstrap-project",
     homepage: null,
     size: 1799,
@@ -685,109 +685,109 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/bootstrap-renters-real-estate-project",
+        "https://github.com/john-smilga/bootstrap-renters-real-estate-project",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/forks",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/teams",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/hooks",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/events",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/tags",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/languages",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/stargazers",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/contributors",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/subscribers",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/subscription",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/merges",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/downloads",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/deployments",
+        "https://api.github.com/repos/john-smilga/bootstrap-renters-real-estate-project/deployments",
     created_at: "2018-12-10T07:48:38Z",
     updated_at: "2020-06-10T17:41:03Z",
     pushed_at: "2018-12-10T07:49:06Z",
     git_url:
-      "git://github.com/john-smilga/bootstrap-renters-real-estate-project.git",
+        "git://github.com/john-smilga/bootstrap-renters-real-estate-project.git",
     ssh_url:
-      "git@github.com:john-smilga/bootstrap-renters-real-estate-project.git",
+        "git@github.com:john-smilga/bootstrap-renters-real-estate-project.git",
     clone_url:
-      "https://github.com/john-smilga/bootstrap-renters-real-estate-project.git",
+        "https://github.com/john-smilga/bootstrap-renters-real-estate-project.git",
     svn_url:
-      "https://github.com/john-smilga/bootstrap-renters-real-estate-project",
+        "https://github.com/john-smilga/bootstrap-renters-real-estate-project",
     homepage: null,
     size: 1942,
     stargazers_count: 2,
@@ -825,17 +825,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -846,58 +846,58 @@ export default [
     forks_url: "https://api.github.com/repos/john-smilga/cars/forks",
     keys_url: "https://api.github.com/repos/john-smilga/cars/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/cars/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/cars/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/cars/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/cars/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/cars/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/cars/issues/events{/number}",
     events_url: "https://api.github.com/repos/john-smilga/cars/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/cars/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/cars/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/cars/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/cars/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/cars/tags",
     blobs_url: "https://api.github.com/repos/john-smilga/cars/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/cars/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/cars/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/cars/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/cars/git/refs{/sha}",
     trees_url: "https://api.github.com/repos/john-smilga/cars/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/cars/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/cars/statuses/{sha}",
     languages_url: "https://api.github.com/repos/john-smilga/cars/languages",
     stargazers_url: "https://api.github.com/repos/john-smilga/cars/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/cars/contributors",
+        "https://api.github.com/repos/john-smilga/cars/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/cars/subscribers",
+        "https://api.github.com/repos/john-smilga/cars/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/cars/subscription",
+        "https://api.github.com/repos/john-smilga/cars/subscription",
     commits_url: "https://api.github.com/repos/john-smilga/cars/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/cars/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/cars/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/cars/comments{/number}",
+        "https://api.github.com/repos/john-smilga/cars/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/cars/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/cars/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/cars/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/cars/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/cars/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/cars/compare/{base}...{head}",
     merges_url: "https://api.github.com/repos/john-smilga/cars/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/cars/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/cars/{archive_format}{/ref}",
     downloads_url: "https://api.github.com/repos/john-smilga/cars/downloads",
     issues_url: "https://api.github.com/repos/john-smilga/cars/issues{/number}",
     pulls_url: "https://api.github.com/repos/john-smilga/cars/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/cars/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/cars/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/cars/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/cars/notifications{?since,all,participating}",
     labels_url: "https://api.github.com/repos/john-smilga/cars/labels{/name}",
     releases_url: "https://api.github.com/repos/john-smilga/cars/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/cars/deployments",
+        "https://api.github.com/repos/john-smilga/cars/deployments",
     created_at: "2018-10-02T23:26:50Z",
     updated_at: "2019-10-11T18:19:05Z",
     pushed_at: "2018-10-02T23:27:32Z",
@@ -942,106 +942,106 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/css-grid-udemy-restaurant-project",
+        "https://github.com/john-smilga/css-grid-udemy-restaurant-project",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/forks",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/teams",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/hooks",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/events",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/tags",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/languages",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/stargazers",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/contributors",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/subscribers",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/subscription",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/merges",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/downloads",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/deployments",
+        "https://api.github.com/repos/john-smilga/css-grid-udemy-restaurant-project/deployments",
     created_at: "2020-01-11T00:29:34Z",
     updated_at: "2020-06-10T17:40:04Z",
     pushed_at: "2020-01-15T21:40:54Z",
     git_url:
-      "git://github.com/john-smilga/css-grid-udemy-restaurant-project.git",
+        "git://github.com/john-smilga/css-grid-udemy-restaurant-project.git",
     ssh_url: "git@github.com:john-smilga/css-grid-udemy-restaurant-project.git",
     clone_url:
-      "https://github.com/john-smilga/css-grid-udemy-restaurant-project.git",
+        "https://github.com/john-smilga/css-grid-udemy-restaurant-project.git",
     svn_url: "https://github.com/john-smilga/css-grid-udemy-restaurant-project",
     homepage: null,
     size: 10238,
@@ -1080,17 +1080,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -1099,77 +1099,77 @@ export default [
     fork: true,
     url: "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge",
     forks_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/forks",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/teams",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/hooks",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/events",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/tags",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/languages",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/stargazers",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/contributors",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/subscribers",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/subscription",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/comments{/number}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/merges",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/downloads",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/issues{/number}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/labels{/name}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/releases{/id}",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/deployments",
+        "https://api.github.com/repos/john-smilga/Drum-Machine-Challenge/deployments",
     created_at: "2019-04-04T03:46:07Z",
     updated_at: "2019-10-11T18:17:13Z",
     pushed_at: "2019-02-15T18:04:03Z",
@@ -1214,17 +1214,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -1233,77 +1233,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/express-portfolio-server",
     forks_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/forks",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/teams",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/hooks",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/events",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/tags",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/languages",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/stargazers",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/contributors",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/subscribers",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/subscription",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/comments{/number}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/merges",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/downloads",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/issues{/number}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/labels{/name}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/releases{/id}",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/express-portfolio-server/deployments",
+        "https://api.github.com/repos/john-smilga/express-portfolio-server/deployments",
     created_at: "2019-11-26T01:40:21Z",
     updated_at: "2020-06-08T04:53:39Z",
     pushed_at: "2020-06-08T04:53:37Z",
@@ -1348,17 +1348,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -1366,86 +1366,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server",
     forks_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/forks",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/teams",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/hooks",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/events",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/tags",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/languages",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/stargazers",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/contributors",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/subscribers",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/subscription",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/comments{/number}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/merges",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/downloads",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/issues{/number}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/labels{/name}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/releases{/id}",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/deployments",
+        "https://api.github.com/repos/john-smilga/express-simple-portfolio-server/deployments",
     created_at: "2019-11-26T01:05:23Z",
     updated_at: "2019-12-12T21:00:06Z",
     pushed_at: "2019-11-26T01:14:52Z",
     git_url: "git://github.com/john-smilga/express-simple-portfolio-server.git",
     ssh_url: "git@github.com:john-smilga/express-simple-portfolio-server.git",
     clone_url:
-      "https://github.com/john-smilga/express-simple-portfolio-server.git",
+        "https://github.com/john-smilga/express-simple-portfolio-server.git",
     svn_url: "https://github.com/john-smilga/express-simple-portfolio-server",
     homepage: null,
     size: 563,
@@ -1484,17 +1484,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -1503,77 +1503,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/firebase-basic-app",
     forks_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/forks",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/teams",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/hooks",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/events",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/tags",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/languages",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/stargazers",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/contributors",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/subscribers",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/subscription",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/comments{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/merges",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/downloads",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/issues{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/labels{/name}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/releases{/id}",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/firebase-basic-app/deployments",
+        "https://api.github.com/repos/john-smilga/firebase-basic-app/deployments",
     created_at: "2019-09-19T16:05:37Z",
     updated_at: "2019-10-11T18:20:31Z",
     pushed_at: "2019-09-19T17:07:16Z",
@@ -1618,17 +1618,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -1636,86 +1636,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application",
     forks_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/forks",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/teams",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/hooks",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/events",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/tags",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/languages",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/stargazers",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/contributors",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/subscribers",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/subscription",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/comments{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/merges",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/downloads",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/issues{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/labels{/name}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/releases{/id}",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/firebase-restaurant-application/deployments",
+        "https://api.github.com/repos/john-smilga/firebase-restaurant-application/deployments",
     created_at: "2019-09-22T19:55:30Z",
     updated_at: "2019-10-11T18:20:28Z",
     pushed_at: "2019-09-24T20:36:44Z",
     git_url: "git://github.com/john-smilga/firebase-restaurant-application.git",
     ssh_url: "git@github.com:john-smilga/firebase-restaurant-application.git",
     clone_url:
-      "https://github.com/john-smilga/firebase-restaurant-application.git",
+        "https://github.com/john-smilga/firebase-restaurant-application.git",
     svn_url: "https://github.com/john-smilga/firebase-restaurant-application",
     homepage: null,
     size: 197,
@@ -1754,17 +1754,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -1773,77 +1773,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/flexbox-backroads-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/forks",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/teams",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/hooks",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/events",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/tags",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/languages",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/stargazers",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/contributors",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/subscribers",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/subscription",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/merges",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/downloads",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/flexbox-backroads-project/deployments",
+        "https://api.github.com/repos/john-smilga/flexbox-backroads-project/deployments",
     created_at: "2019-07-18T15:14:01Z",
     updated_at: "2020-06-14T04:06:52Z",
     pushed_at: "2019-07-26T21:13:10Z",
@@ -1888,17 +1888,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -1907,77 +1907,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/flexbox-car-dealership",
     forks_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/forks",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/teams",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/hooks",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/events",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/tags",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/languages",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/stargazers",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/contributors",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/subscribers",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/subscription",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/comments{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/merges",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/downloads",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/issues{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/labels{/name}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/releases{/id}",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/flexbox-car-dealership/deployments",
+        "https://api.github.com/repos/john-smilga/flexbox-car-dealership/deployments",
     created_at: "2018-10-30T09:14:22Z",
     updated_at: "2020-05-21T09:38:13Z",
     pushed_at: "2018-10-30T09:17:56Z",
@@ -2022,109 +2022,109 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/gatsby-backroads-project-recording",
+        "https://github.com/john-smilga/gatsby-backroads-project-recording",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/events",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-backroads-project-recording/deployments",
     created_at: "2019-05-26T21:36:23Z",
     updated_at: "2020-04-21T15:16:45Z",
     pushed_at: "2020-04-21T15:16:41Z",
     git_url:
-      "git://github.com/john-smilga/gatsby-backroads-project-recording.git",
+        "git://github.com/john-smilga/gatsby-backroads-project-recording.git",
     ssh_url:
-      "git@github.com:john-smilga/gatsby-backroads-project-recording.git",
+        "git@github.com:john-smilga/gatsby-backroads-project-recording.git",
     clone_url:
-      "https://github.com/john-smilga/gatsby-backroads-project-recording.git",
+        "https://github.com/john-smilga/gatsby-backroads-project-recording.git",
     svn_url:
-      "https://github.com/john-smilga/gatsby-backroads-project-recording",
+        "https://github.com/john-smilga/gatsby-backroads-project-recording",
     homepage: null,
     size: 907,
     stargazers_count: 6,
@@ -2168,17 +2168,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -2187,76 +2187,76 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/gatsby-bootstrap",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/events",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/gatsby-bootstrap/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-bootstrap/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-bootstrap/deployments",
     created_at: "2018-11-17T21:04:00Z",
     updated_at: "2019-10-11T18:18:54Z",
     pushed_at: "2018-11-17T21:04:23Z",
@@ -2307,17 +2307,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -2326,77 +2326,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/gatsby-coffee-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/events",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-coffee-project/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-coffee-project/deployments",
     created_at: "2019-02-06T06:06:00Z",
     updated_at: "2020-06-10T17:38:24Z",
     pushed_at: "2020-06-06T23:26:07Z",
@@ -2447,17 +2447,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -2467,72 +2467,72 @@ export default [
     url: "https://api.github.com/repos/john-smilga/gatsby-courses",
     forks_url: "https://api.github.com/repos/john-smilga/gatsby-courses/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/gatsby-courses/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/gatsby-courses/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/events",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/gatsby-courses/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-courses/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-courses/deployments",
     created_at: "2020-02-03T21:41:58Z",
     updated_at: "2020-02-05T14:54:10Z",
     pushed_at: "2020-02-03T04:00:38Z",
@@ -2577,17 +2577,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -2596,77 +2596,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/events",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-project/deployments",
     created_at: "2019-06-17T23:58:40Z",
     updated_at: "2019-12-12T21:02:26Z",
     pushed_at: "2019-08-10T00:06:38Z",
@@ -2706,7 +2706,7 @@ export default [
     node_id: "MDEwOlJlcG9zaXRvcnkyNjcxNDU3MTU=",
     name: "gatsby-mdx-blog-udemy-course-second-project-starter-project",
     full_name:
-      "john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project",
+        "john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project",
     private: false,
     owner: {
       login: "john-smilga",
@@ -2718,109 +2718,109 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project",
+        "https://github.com/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/events",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project/deployments",
     created_at: "2020-05-26T20:31:59Z",
     updated_at: "2020-05-26T20:54:18Z",
     pushed_at: "2020-05-26T20:54:15Z",
     git_url:
-      "git://github.com/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project.git",
+        "git://github.com/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project.git",
     ssh_url:
-      "git@github.com:john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project.git",
+        "git@github.com:john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project.git",
     clone_url:
-      "https://github.com/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project.git",
+        "https://github.com/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project.git",
     svn_url:
-      "https://github.com/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project",
+        "https://github.com/john-smilga/gatsby-mdx-blog-udemy-course-second-project-starter-project",
     homepage: null,
     size: 23746,
     stargazers_count: 0,
@@ -2864,17 +2864,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -2883,77 +2883,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/events",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-mdx-project-starter/deployments",
     created_at: "2019-11-20T01:25:35Z",
     updated_at: "2019-11-20T01:26:45Z",
     pushed_at: "2019-11-20T01:26:43Z",
@@ -3004,106 +3004,106 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/gatsby-personal-site-2019-starter",
+        "https://github.com/john-smilga/gatsby-personal-site-2019-starter",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/events",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-personal-site-2019-starter/deployments",
     created_at: "2019-10-03T14:04:22Z",
     updated_at: "2020-03-12T14:50:48Z",
     pushed_at: "2019-10-03T14:05:41Z",
     git_url:
-      "git://github.com/john-smilga/gatsby-personal-site-2019-starter.git",
+        "git://github.com/john-smilga/gatsby-personal-site-2019-starter.git",
     ssh_url: "git@github.com:john-smilga/gatsby-personal-site-2019-starter.git",
     clone_url:
-      "https://github.com/john-smilga/gatsby-personal-site-2019-starter.git",
+        "https://github.com/john-smilga/gatsby-personal-site-2019-starter.git",
     svn_url: "https://github.com/john-smilga/gatsby-personal-site-2019-starter",
     homepage: null,
     size: 343,
@@ -3148,17 +3148,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -3167,77 +3167,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/gatsby-real-estate-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/events",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-real-estate-project/deployments",
     created_at: "2018-12-26T02:05:38Z",
     updated_at: "2020-04-24T18:18:25Z",
     pushed_at: "2018-12-28T06:39:17Z",
@@ -3288,17 +3288,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -3307,77 +3307,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/gatsby-restaurant-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/events",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-restaurant-project/deployments",
     created_at: "2018-12-25T11:39:14Z",
     updated_at: "2020-06-14T18:54:04Z",
     pushed_at: "2020-04-06T15:34:53Z",
@@ -3428,17 +3428,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -3446,87 +3446,87 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/events",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-second-tutorial-recording/deployments",
     created_at: "2019-06-29T06:31:11Z",
     updated_at: "2019-10-11T18:20:55Z",
     pushed_at: "2019-06-29T07:07:42Z",
     git_url:
-      "git://github.com/john-smilga/gatsby-second-tutorial-recording.git",
+        "git://github.com/john-smilga/gatsby-second-tutorial-recording.git",
     ssh_url: "git@github.com:john-smilga/gatsby-second-tutorial-recording.git",
     clone_url:
-      "https://github.com/john-smilga/gatsby-second-tutorial-recording.git",
+        "https://github.com/john-smilga/gatsby-second-tutorial-recording.git",
     svn_url: "https://github.com/john-smilga/gatsby-second-tutorial-recording",
     homepage: null,
     size: 3331,
@@ -3571,17 +3571,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -3590,77 +3590,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/gatsby-starter-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/events",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-starter-project/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-starter-project/deployments",
     created_at: "2018-12-25T10:38:02Z",
     updated_at: "2019-10-11T18:17:34Z",
     pushed_at: "2018-12-29T05:22:07Z",
@@ -3711,17 +3711,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -3731,70 +3731,70 @@ export default [
     url: "https://api.github.com/repos/john-smilga/gatsby-store",
     forks_url: "https://api.github.com/repos/john-smilga/gatsby-store/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/gatsby-store/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/gatsby-store/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/issues/events{/number}",
     events_url: "https://api.github.com/repos/john-smilga/gatsby-store/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/gatsby-store/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-store/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-store/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-store/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-store/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-store/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/compare/{base}...{head}",
     merges_url: "https://api.github.com/repos/john-smilga/gatsby-store/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-store/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-store/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-store/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-store/deployments",
     created_at: "2018-12-16T11:04:08Z",
     updated_at: "2019-10-11T18:17:40Z",
     pushed_at: "2018-12-16T11:10:03Z",
@@ -3845,106 +3845,106 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/gatsby-strapi-portfolio-site-2020",
+        "https://github.com/john-smilga/gatsby-strapi-portfolio-site-2020",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/events",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-strapi-portfolio-site-2020/deployments",
     created_at: "2020-05-16T22:36:51Z",
     updated_at: "2020-06-24T00:50:07Z",
     pushed_at: "2020-06-05T16:08:11Z",
     git_url:
-      "git://github.com/john-smilga/gatsby-strapi-portfolio-site-2020.git",
+        "git://github.com/john-smilga/gatsby-strapi-portfolio-site-2020.git",
     ssh_url: "git@github.com:john-smilga/gatsby-strapi-portfolio-site-2020.git",
     clone_url:
-      "https://github.com/john-smilga/gatsby-strapi-portfolio-site-2020.git",
+        "https://github.com/john-smilga/gatsby-strapi-portfolio-site-2020.git",
     svn_url: "https://github.com/john-smilga/gatsby-strapi-portfolio-site-2020",
     homepage: null,
     size: 7462,
@@ -3989,17 +3989,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -4008,77 +4008,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/events",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-2020/deployments",
     created_at: "2020-03-22T04:53:10Z",
     updated_at: "2020-06-20T17:44:52Z",
     pushed_at: "2020-04-03T02:03:48Z",
@@ -4129,17 +4129,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -4148,77 +4148,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/gatsby-tutorial-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/forks",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/teams",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/hooks",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/events",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/tags",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/languages",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/stargazers",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/contributors",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/subscribers",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/subscription",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/merges",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/downloads",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/deployments",
+        "https://api.github.com/repos/john-smilga/gatsby-tutorial-project/deployments",
     created_at: "2019-11-08T03:37:17Z",
     updated_at: "2019-12-12T20:59:40Z",
     pushed_at: "2019-11-08T05:11:42Z",
@@ -4269,17 +4269,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -4288,77 +4288,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/grid-coffee-project-final",
     forks_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/forks",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/teams",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/hooks",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/events",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/tags",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/languages",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/stargazers",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/contributors",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/subscribers",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/subscription",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/comments{/number}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/merges",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/downloads",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/issues{/number}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/labels{/name}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/releases{/id}",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/grid-coffee-project-final/deployments",
+        "https://api.github.com/repos/john-smilga/grid-coffee-project-final/deployments",
     created_at: "2018-12-10T07:59:54Z",
     updated_at: "2020-02-29T15:07:49Z",
     pushed_at: "2018-12-10T08:00:49Z",
@@ -4403,17 +4403,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -4422,77 +4422,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/grid-mini-projects",
     forks_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/forks",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/teams",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/hooks",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/events",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/tags",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/languages",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/stargazers",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/contributors",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/subscribers",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/subscription",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/comments{/number}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/merges",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/downloads",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/issues{/number}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/labels{/name}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/releases{/id}",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/grid-mini-projects/deployments",
+        "https://api.github.com/repos/john-smilga/grid-mini-projects/deployments",
     created_at: "2019-07-29T22:04:56Z",
     updated_at: "2020-06-16T12:20:15Z",
     pushed_at: "2019-07-29T22:11:33Z",
@@ -4537,17 +4537,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -4558,68 +4558,68 @@ export default [
     forks_url: "https://api.github.com/repos/john-smilga/gulp-css/forks",
     keys_url: "https://api.github.com/repos/john-smilga/gulp-css/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/gulp-css/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/gulp-css/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/gulp-css/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/gulp-css/issues/events{/number}",
     events_url: "https://api.github.com/repos/john-smilga/gulp-css/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/gulp-css/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/gulp-css/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/gulp-css/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/gulp-css/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/gulp-css/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/gulp-css/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/gulp-css/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/gulp-css/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/languages",
+        "https://api.github.com/repos/john-smilga/gulp-css/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/stargazers",
+        "https://api.github.com/repos/john-smilga/gulp-css/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/contributors",
+        "https://api.github.com/repos/john-smilga/gulp-css/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/subscribers",
+        "https://api.github.com/repos/john-smilga/gulp-css/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/subscription",
+        "https://api.github.com/repos/john-smilga/gulp-css/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gulp-css/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/gulp-css/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gulp-css/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/gulp-css/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/gulp-css/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/gulp-css/compare/{base}...{head}",
     merges_url: "https://api.github.com/repos/john-smilga/gulp-css/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/gulp-css/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/downloads",
+        "https://api.github.com/repos/john-smilga/gulp-css/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/issues{/number}",
+        "https://api.github.com/repos/john-smilga/gulp-css/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/gulp-css/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/gulp-css/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/gulp-css/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/labels{/name}",
+        "https://api.github.com/repos/john-smilga/gulp-css/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/releases{/id}",
+        "https://api.github.com/repos/john-smilga/gulp-css/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/gulp-css/deployments",
+        "https://api.github.com/repos/john-smilga/gulp-css/deployments",
     created_at: "2018-10-22T19:44:22Z",
     updated_at: "2019-10-11T18:19:03Z",
     pushed_at: "2018-10-22T19:44:46Z",
@@ -4664,109 +4664,109 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/html-css-fast-and-faster-car-project",
+        "https://github.com/john-smilga/html-css-fast-and-faster-car-project",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/forks",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/teams",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/hooks",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/events",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/tags",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/languages",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/stargazers",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/contributors",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/subscribers",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/subscription",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/merges",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/downloads",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/deployments",
+        "https://api.github.com/repos/john-smilga/html-css-fast-and-faster-car-project/deployments",
     created_at: "2019-02-22T18:42:14Z",
     updated_at: "2020-06-10T17:40:48Z",
     pushed_at: "2019-02-22T18:42:40Z",
     git_url:
-      "git://github.com/john-smilga/html-css-fast-and-faster-car-project.git",
+        "git://github.com/john-smilga/html-css-fast-and-faster-car-project.git",
     ssh_url:
-      "git@github.com:john-smilga/html-css-fast-and-faster-car-project.git",
+        "git@github.com:john-smilga/html-css-fast-and-faster-car-project.git",
     clone_url:
-      "https://github.com/john-smilga/html-css-fast-and-faster-car-project.git",
+        "https://github.com/john-smilga/html-css-fast-and-faster-car-project.git",
     svn_url:
-      "https://github.com/john-smilga/html-css-fast-and-faster-car-project",
+        "https://github.com/john-smilga/html-css-fast-and-faster-car-project",
     homepage: null,
     size: 1074,
     stargazers_count: 4,
@@ -4804,109 +4804,109 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/html-css-flexbox-backroads-new-design-2020",
+        "https://github.com/john-smilga/html-css-flexbox-backroads-new-design-2020",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020",
     forks_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/forks",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/teams",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/hooks",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/events",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/tags",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/languages",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/stargazers",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/contributors",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/subscribers",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/subscription",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/merges",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/downloads",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/issues{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/labels{/name}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/releases{/id}",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/deployments",
+        "https://api.github.com/repos/john-smilga/html-css-flexbox-backroads-new-design-2020/deployments",
     created_at: "2020-03-09T16:14:53Z",
     updated_at: "2020-05-01T11:12:51Z",
     pushed_at: "2020-03-11T17:37:19Z",
     git_url:
-      "git://github.com/john-smilga/html-css-flexbox-backroads-new-design-2020.git",
+        "git://github.com/john-smilga/html-css-flexbox-backroads-new-design-2020.git",
     ssh_url:
-      "git@github.com:john-smilga/html-css-flexbox-backroads-new-design-2020.git",
+        "git@github.com:john-smilga/html-css-flexbox-backroads-new-design-2020.git",
     clone_url:
-      "https://github.com/john-smilga/html-css-flexbox-backroads-new-design-2020.git",
+        "https://github.com/john-smilga/html-css-flexbox-backroads-new-design-2020.git",
     svn_url:
-      "https://github.com/john-smilga/html-css-flexbox-backroads-new-design-2020",
+        "https://github.com/john-smilga/html-css-flexbox-backroads-new-design-2020",
     homepage: null,
     size: 3774,
     stargazers_count: 1,
@@ -4944,17 +4944,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -4962,86 +4962,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording",
     forks_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/forks",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/teams",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/hooks",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/events",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/tags",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/languages",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/stargazers",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/contributors",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/subscribers",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/subscription",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/merges",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/downloads",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/issues{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/labels{/name}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/releases{/id}",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/deployments",
+        "https://api.github.com/repos/john-smilga/html-css-grid-project-recording/deployments",
     created_at: "2020-04-07T19:53:03Z",
     updated_at: "2020-06-16T12:16:49Z",
     pushed_at: "2020-04-11T02:25:59Z",
     git_url: "git://github.com/john-smilga/html-css-grid-project-recording.git",
     ssh_url: "git@github.com:john-smilga/html-css-grid-project-recording.git",
     clone_url:
-      "https://github.com/john-smilga/html-css-grid-project-recording.git",
+        "https://github.com/john-smilga/html-css-grid-project-recording.git",
     svn_url: "https://github.com/john-smilga/html-css-grid-project-recording",
     homepage: null,
     size: 23097,
@@ -5080,109 +5080,109 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/html-css-only-floats-tea-station-project",
+        "https://github.com/john-smilga/html-css-only-floats-tea-station-project",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/forks",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/teams",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/hooks",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/events",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/tags",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/languages",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/stargazers",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/contributors",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/subscribers",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/subscription",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/merges",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/downloads",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/deployments",
+        "https://api.github.com/repos/john-smilga/html-css-only-floats-tea-station-project/deployments",
     created_at: "2019-02-24T08:56:19Z",
     updated_at: "2020-06-14T04:06:43Z",
     pushed_at: "2019-03-04T01:27:41Z",
     git_url:
-      "git://github.com/john-smilga/html-css-only-floats-tea-station-project.git",
+        "git://github.com/john-smilga/html-css-only-floats-tea-station-project.git",
     ssh_url:
-      "git@github.com:john-smilga/html-css-only-floats-tea-station-project.git",
+        "git@github.com:john-smilga/html-css-only-floats-tea-station-project.git",
     clone_url:
-      "https://github.com/john-smilga/html-css-only-floats-tea-station-project.git",
+        "https://github.com/john-smilga/html-css-only-floats-tea-station-project.git",
     svn_url:
-      "https://github.com/john-smilga/html-css-only-floats-tea-station-project",
+        "https://github.com/john-smilga/html-css-only-floats-tea-station-project",
     homepage: null,
     size: 3372,
     stargazers_count: 6,
@@ -5220,109 +5220,109 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/html-css-portfolio-project-with-css-grid",
+        "https://github.com/john-smilga/html-css-portfolio-project-with-css-grid",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid",
     forks_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/forks",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/teams",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/hooks",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/events",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/tags",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/languages",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/stargazers",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/contributors",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/subscribers",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/subscription",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/merges",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/downloads",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/issues{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/labels{/name}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/releases{/id}",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/deployments",
+        "https://api.github.com/repos/john-smilga/html-css-portfolio-project-with-css-grid/deployments",
     created_at: "2020-04-05T20:56:27Z",
     updated_at: "2020-05-22T01:00:42Z",
     pushed_at: "2020-04-10T23:39:05Z",
     git_url:
-      "git://github.com/john-smilga/html-css-portfolio-project-with-css-grid.git",
+        "git://github.com/john-smilga/html-css-portfolio-project-with-css-grid.git",
     ssh_url:
-      "git@github.com:john-smilga/html-css-portfolio-project-with-css-grid.git",
+        "git@github.com:john-smilga/html-css-portfolio-project-with-css-grid.git",
     clone_url:
-      "https://github.com/john-smilga/html-css-portfolio-project-with-css-grid.git",
+        "https://github.com/john-smilga/html-css-portfolio-project-with-css-grid.git",
     svn_url:
-      "https://github.com/john-smilga/html-css-portfolio-project-with-css-grid",
+        "https://github.com/john-smilga/html-css-portfolio-project-with-css-grid",
     homepage: null,
     size: 23073,
     stargazers_count: 1,
@@ -5360,17 +5360,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -5378,86 +5378,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design",
     forks_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/forks",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/teams",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/hooks",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/events",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/tags",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/languages",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/stargazers",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/contributors",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/subscribers",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/subscription",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/merges",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/downloads",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/issues{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/labels{/name}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/releases{/id}",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/deployments",
+        "https://api.github.com/repos/john-smilga/html-css-tea-station-new-design/deployments",
     created_at: "2020-02-28T00:22:51Z",
     updated_at: "2020-06-02T14:29:21Z",
     pushed_at: "2020-05-28T03:39:41Z",
     git_url: "git://github.com/john-smilga/html-css-tea-station-new-design.git",
     ssh_url: "git@github.com:john-smilga/html-css-tea-station-new-design.git",
     clone_url:
-      "https://github.com/john-smilga/html-css-tea-station-new-design.git",
+        "https://github.com/john-smilga/html-css-tea-station-new-design.git",
     svn_url: "https://github.com/john-smilga/html-css-tea-station-new-design",
     homepage: null,
     size: 3519,
@@ -5496,17 +5496,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -5514,86 +5514,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code",
     forks_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/forks",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/teams",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/hooks",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/events",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/tags",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/languages",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/stargazers",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/contributors",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/subscribers",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/subscription",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/merges",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/downloads",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/issues{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/labels{/name}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/releases{/id}",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/deployments",
+        "https://api.github.com/repos/john-smilga/html-css-tutorial-source-code/deployments",
     created_at: "2020-02-28T00:04:15Z",
     updated_at: "2020-06-14T04:02:06Z",
     pushed_at: "2020-02-28T00:05:26Z",
     git_url: "git://github.com/john-smilga/html-css-tutorial-source-code.git",
     ssh_url: "git@github.com:john-smilga/html-css-tutorial-source-code.git",
     clone_url:
-      "https://github.com/john-smilga/html-css-tutorial-source-code.git",
+        "https://github.com/john-smilga/html-css-tutorial-source-code.git",
     svn_url: "https://github.com/john-smilga/html-css-tutorial-source-code",
     homepage: null,
     size: 16694,
@@ -5632,17 +5632,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -5651,77 +5651,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/javascript-basic-projects",
     forks_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/forks",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/teams",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/hooks",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/events",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/tags",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/languages",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/stargazers",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/contributors",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/subscribers",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/subscription",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/comments{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/merges",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/downloads",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/issues{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/labels{/name}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/releases{/id}",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/javascript-basic-projects/deployments",
+        "https://api.github.com/repos/john-smilga/javascript-basic-projects/deployments",
     created_at: "2019-11-18T04:13:41Z",
     updated_at: "2020-06-24T13:34:15Z",
     pushed_at: "2020-06-14T21:59:33Z",
@@ -5766,17 +5766,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -5784,86 +5784,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code",
     forks_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/forks",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/teams",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/hooks",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/events",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/tags",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/languages",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/stargazers",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/contributors",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/subscribers",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/subscription",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/comments{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/merges",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/downloads",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/issues{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/labels{/name}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/releases{/id}",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/deployments",
+        "https://api.github.com/repos/john-smilga/javascript-tutorial-source-code/deployments",
     created_at: "2020-06-15T18:31:14Z",
     updated_at: "2020-06-23T20:19:44Z",
     pushed_at: "2020-06-23T20:19:42Z",
     git_url: "git://github.com/john-smilga/javascript-tutorial-source-code.git",
     ssh_url: "git@github.com:john-smilga/javascript-tutorial-source-code.git",
     clone_url:
-      "https://github.com/john-smilga/javascript-tutorial-source-code.git",
+        "https://github.com/john-smilga/javascript-tutorial-source-code.git",
     svn_url: "https://github.com/john-smilga/javascript-tutorial-source-code",
     homepage: null,
     size: 204,
@@ -5902,17 +5902,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -5921,77 +5921,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-backgroundImage-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/events",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-backgroundImage-setup/deployments",
     created_at: "2018-09-02T06:04:07Z",
     updated_at: "2019-10-11T18:19:44Z",
     pushed_at: "2018-09-02T06:04:30Z",
@@ -6036,17 +6036,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -6054,86 +6054,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/forks",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/teams",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/hooks",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/events",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/tags",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/languages",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/stargazers",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/contributors",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/subscribers",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/subscription",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/merges",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/downloads",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-budget-calculator-project/deployments",
+        "https://api.github.com/repos/john-smilga/js-budget-calculator-project/deployments",
     created_at: "2019-08-07T13:56:59Z",
     updated_at: "2019-10-11T18:20:38Z",
     pushed_at: "2019-08-07T13:57:51Z",
     git_url: "git://github.com/john-smilga/js-budget-calculator-project.git",
     ssh_url: "git@github.com:john-smilga/js-budget-calculator-project.git",
     clone_url:
-      "https://github.com/john-smilga/js-budget-calculator-project.git",
+        "https://github.com/john-smilga/js-budget-calculator-project.git",
     svn_url: "https://github.com/john-smilga/js-budget-calculator-project",
     homepage: null,
     size: 1600,
@@ -6172,17 +6172,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -6192,72 +6192,72 @@ export default [
     url: "https://api.github.com/repos/john-smilga/js-budget-setup",
     forks_url: "https://api.github.com/repos/john-smilga/js-budget-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/js-budget-setup/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/js-budget-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/events",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-budget-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-budget-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-budget-setup/deployments",
     created_at: "2018-09-09T07:20:17Z",
     updated_at: "2020-06-02T22:48:38Z",
     pushed_at: "2018-09-16T22:50:08Z",
@@ -6302,17 +6302,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -6321,77 +6321,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-calculator-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/events",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-calculator-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-calculator-setup/deployments",
     created_at: "2018-09-07T02:04:41Z",
     updated_at: "2019-10-11T18:19:25Z",
     pushed_at: "2018-09-07T02:05:29Z",
@@ -6436,17 +6436,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -6456,70 +6456,70 @@ export default [
     url: "https://api.github.com/repos/john-smilga/js-cart-setup",
     forks_url: "https://api.github.com/repos/john-smilga/js-cart-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/js-cart-setup/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/js-cart-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/issues/events{/number}",
     events_url: "https://api.github.com/repos/john-smilga/js-cart-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-cart-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/compare/{base}...{head}",
     merges_url: "https://api.github.com/repos/john-smilga/js-cart-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-cart-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-cart-setup/deployments",
     created_at: "2018-09-03T20:55:30Z",
     updated_at: "2020-06-10T17:40:57Z",
     pushed_at: "2019-01-09T05:20:01Z",
@@ -6564,17 +6564,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -6584,70 +6584,70 @@ export default [
     url: "https://api.github.com/repos/john-smilga/js-challanges",
     forks_url: "https://api.github.com/repos/john-smilga/js-challanges/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-challanges/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-challanges/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/js-challanges/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/js-challanges/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-challanges/issues/events{/number}",
     events_url: "https://api.github.com/repos/john-smilga/js-challanges/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-challanges/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-challanges/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-challanges/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-challanges/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-challanges/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-challanges/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-challanges/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-challanges/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/languages",
+        "https://api.github.com/repos/john-smilga/js-challanges/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/stargazers",
+        "https://api.github.com/repos/john-smilga/js-challanges/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/contributors",
+        "https://api.github.com/repos/john-smilga/js-challanges/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/subscribers",
+        "https://api.github.com/repos/john-smilga/js-challanges/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/subscription",
+        "https://api.github.com/repos/john-smilga/js-challanges/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-challanges/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-challanges/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-challanges/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-challanges/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-challanges/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-challanges/compare/{base}...{head}",
     merges_url: "https://api.github.com/repos/john-smilga/js-challanges/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-challanges/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/downloads",
+        "https://api.github.com/repos/john-smilga/js-challanges/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-challanges/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-challanges/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-challanges/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-challanges/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-challanges/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-challanges/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-challanges/deployments",
+        "https://api.github.com/repos/john-smilga/js-challanges/deployments",
     created_at: "2019-03-26T01:13:11Z",
     updated_at: "2020-06-10T17:40:35Z",
     pushed_at: "2019-03-31T04:57:43Z",
@@ -6692,17 +6692,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -6711,77 +6711,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-changeBackground-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/events",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-changeBackground-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-changeBackground-setup/deployments",
     created_at: "2018-08-25T02:18:04Z",
     updated_at: "2019-10-11T18:19:55Z",
     pushed_at: "2018-08-25T02:19:31Z",
@@ -6826,17 +6826,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -6844,86 +6844,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/forks",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/teams",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/hooks",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/events",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/tags",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/languages",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/stargazers",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/contributors",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/subscribers",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/subscription",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/merges",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/downloads",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/deployments",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-furniture-store/deployments",
     created_at: "2019-03-24T08:06:01Z",
     updated_at: "2020-03-14T08:12:44Z",
     pushed_at: "2019-03-24T08:06:25Z",
     git_url: "git://github.com/john-smilga/js-comfy-house-furniture-store.git",
     ssh_url: "git@github.com:john-smilga/js-comfy-house-furniture-store.git",
     clone_url:
-      "https://github.com/john-smilga/js-comfy-house-furniture-store.git",
+        "https://github.com/john-smilga/js-comfy-house-furniture-store.git",
     svn_url: "https://github.com/john-smilga/js-comfy-house-furniture-store",
     homepage: null,
     size: 827,
@@ -6962,17 +6962,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -6981,77 +6981,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/events",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-comfy-house-parcel-setup/deployments",
     created_at: "2019-05-26T06:10:53Z",
     updated_at: "2020-02-20T09:24:53Z",
     pushed_at: "2020-04-05T13:04:39Z",
@@ -7096,17 +7096,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -7115,76 +7115,76 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-counter-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/events",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-counter-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-counter-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-counter-setup/deployments",
     created_at: "2018-09-01T07:21:12Z",
     updated_at: "2019-10-11T18:19:45Z",
     pushed_at: "2018-09-01T07:21:36Z",
@@ -7229,17 +7229,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -7248,77 +7248,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-course-form-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/events",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-course-form-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-course-form-setup/deployments",
     created_at: "2018-09-11T21:49:34Z",
     updated_at: "2019-10-11T18:19:18Z",
     pushed_at: "2018-09-11T21:50:59Z",
@@ -7363,17 +7363,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -7382,77 +7382,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-displayQuotes-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/events",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-displayQuotes-setup/deployments",
     created_at: "2018-08-31T07:14:40Z",
     updated_at: "2019-10-11T18:19:49Z",
     pushed_at: "2018-08-31T07:15:06Z",
@@ -7497,17 +7497,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -7517,72 +7517,72 @@ export default [
     url: "https://api.github.com/repos/john-smilga/js-filter-setup",
     forks_url: "https://api.github.com/repos/john-smilga/js-filter-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/js-filter-setup/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/js-filter-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/events",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-filter-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-filter-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-filter-setup/deployments",
     created_at: "2018-09-02T20:29:28Z",
     updated_at: "2019-10-11T18:19:42Z",
     pushed_at: "2018-09-02T20:29:50Z",
@@ -7627,17 +7627,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -7646,77 +7646,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-flashcards-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/events",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-flashcards-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-flashcards-setup/deployments",
     created_at: "2018-09-08T07:40:32Z",
     updated_at: "2019-10-11T18:19:25Z",
     pushed_at: "2018-09-08T07:41:10Z",
@@ -7761,17 +7761,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -7780,77 +7780,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-githubAPI-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/events",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-githubAPI-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-githubAPI-setup/deployments",
     created_at: "2018-10-01T21:57:36Z",
     updated_at: "2019-10-11T18:19:09Z",
     pushed_at: "2018-10-01T21:59:02Z",
@@ -7895,17 +7895,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -7914,77 +7914,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-grocery-list-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/events",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-grocery-list-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-grocery-list-setup/deployments",
     created_at: "2018-09-06T23:39:45Z",
     updated_at: "2019-10-11T18:19:26Z",
     pushed_at: "2018-09-06T23:43:57Z",
@@ -8029,17 +8029,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -8048,76 +8048,76 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-hexColor-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/events",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-hexColor-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-hexColor-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-hexColor-setup/deployments",
     created_at: "2018-08-26T14:55:36Z",
     updated_at: "2019-10-11T18:19:51Z",
     pushed_at: "2018-08-26T14:58:23Z",
@@ -8162,17 +8162,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -8181,77 +8181,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-httpMethods-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/events",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-httpMethods-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-httpMethods-setup/deployments",
     created_at: "2018-09-27T22:02:42Z",
     updated_at: "2019-10-11T18:19:11Z",
     pushed_at: "2018-09-27T22:03:16Z",
@@ -8296,17 +8296,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -8316,72 +8316,72 @@ export default [
     url: "https://api.github.com/repos/john-smilga/js-jokes-setup",
     forks_url: "https://api.github.com/repos/john-smilga/js-jokes-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/js-jokes-setup/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/js-jokes-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/events",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-jokes-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-jokes-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-jokes-setup/deployments",
     created_at: "2018-09-26T22:47:33Z",
     updated_at: "2019-10-11T18:19:15Z",
     pushed_at: "2018-09-26T22:49:01Z",
@@ -8426,17 +8426,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -8446,72 +8446,72 @@ export default [
     url: "https://api.github.com/repos/john-smilga/js-modal-setup",
     forks_url: "https://api.github.com/repos/john-smilga/js-modal-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/js-modal-setup/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/js-modal-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/events",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-modal-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-modal-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-modal-setup/deployments",
     created_at: "2018-09-02T20:23:20Z",
     updated_at: "2019-10-11T18:19:44Z",
     pushed_at: "2018-09-02T20:27:58Z",
@@ -8556,17 +8556,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -8575,77 +8575,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-passMessage-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/events",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-passMessage-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-passMessage-setup/deployments",
     created_at: "2018-08-30T07:40:56Z",
     updated_at: "2019-10-11T18:19:49Z",
     pushed_at: "2018-08-30T07:41:20Z",
@@ -8690,17 +8690,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -8709,77 +8709,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/events",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-randomPersonAPI-setup/deployments",
     created_at: "2018-09-26T23:50:07Z",
     updated_at: "2019-10-11T18:19:15Z",
     pushed_at: "2018-09-26T23:51:02Z",
@@ -8824,17 +8824,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -8843,77 +8843,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-simple-calculator",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/forks",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/teams",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/hooks",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/events",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/tags",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/languages",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/stargazers",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/contributors",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/subscribers",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/subscription",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/merges",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/downloads",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-simple-calculator/deployments",
+        "https://api.github.com/repos/john-smilga/js-simple-calculator/deployments",
     created_at: "2019-08-15T17:06:38Z",
     updated_at: "2020-06-10T17:40:30Z",
     pushed_at: "2019-08-15T17:06:53Z",
@@ -8958,17 +8958,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -8977,76 +8977,76 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-slider-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/forks",
+        "https://api.github.com/repos/john-smilga/js-slider-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/teams",
+        "https://api.github.com/repos/john-smilga/js-slider-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/hooks",
+        "https://api.github.com/repos/john-smilga/js-slider-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/events",
+        "https://api.github.com/repos/john-smilga/js-slider-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-slider-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/languages",
+        "https://api.github.com/repos/john-smilga/js-slider-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/stargazers",
+        "https://api.github.com/repos/john-smilga/js-slider-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/contributors",
+        "https://api.github.com/repos/john-smilga/js-slider-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/subscribers",
+        "https://api.github.com/repos/john-smilga/js-slider-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/subscription",
+        "https://api.github.com/repos/john-smilga/js-slider-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/merges",
+        "https://api.github.com/repos/john-smilga/js-slider-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/downloads",
+        "https://api.github.com/repos/john-smilga/js-slider-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-slider-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-slider-project/deployments",
+        "https://api.github.com/repos/john-smilga/js-slider-project/deployments",
     created_at: "2019-09-08T16:02:08Z",
     updated_at: "2020-06-10T17:40:23Z",
     pushed_at: "2019-09-08T16:02:56Z",
@@ -9091,17 +9091,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -9110,77 +9110,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-testimonials-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/events",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-testimonials-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-testimonials-setup/deployments",
     created_at: "2018-08-27T06:58:49Z",
     updated_at: "2019-10-11T18:19:50Z",
     pushed_at: "2018-08-27T06:59:08Z",
@@ -9225,17 +9225,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -9244,77 +9244,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-tip-calculator-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/events",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-tip-calculator-setup/deployments",
     created_at: "2018-09-04T06:25:02Z",
     updated_at: "2019-10-11T18:19:27Z",
     pushed_at: "2018-09-04T06:26:15Z",
@@ -9359,17 +9359,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -9378,76 +9378,76 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-toDoList-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/events",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-toDoList-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-toDoList-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-toDoList-setup/deployments",
     created_at: "2018-09-16T16:48:36Z",
     updated_at: "2019-10-11T18:19:17Z",
     pushed_at: "2018-09-16T16:50:00Z",
@@ -9492,17 +9492,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -9511,77 +9511,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-tutorial-recording",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/forks",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/teams",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/hooks",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/events",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/tags",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/languages",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/stargazers",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/contributors",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/subscribers",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/subscription",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/merges",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/downloads",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-tutorial-recording/deployments",
+        "https://api.github.com/repos/john-smilga/js-tutorial-recording/deployments",
     created_at: "2019-12-06T20:53:17Z",
     updated_at: "2020-01-13T18:58:05Z",
     pushed_at: "2020-01-13T18:58:03Z",
@@ -9626,17 +9626,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -9645,77 +9645,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/events",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-wheatherAPI-setup/deployments",
     created_at: "2018-10-01T21:49:50Z",
     updated_at: "2019-10-11T18:19:10Z",
     pushed_at: "2018-10-01T21:50:31Z",
@@ -9760,17 +9760,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -9779,76 +9779,76 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-wikiAPI-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/events",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-wikiAPI-setup/deployments",
     created_at: "2018-09-27T00:49:24Z",
     updated_at: "2019-10-11T18:19:12Z",
     pushed_at: "2018-09-27T00:51:33Z",
@@ -9893,17 +9893,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -9912,77 +9912,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/forks",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/teams",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/hooks",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/events",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/tags",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/languages",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/stargazers",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/contributors",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/subscribers",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/subscription",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/merges",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/downloads",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/deployments",
+        "https://api.github.com/repos/john-smilga/js-zomato-restaurant-app/deployments",
     created_at: "2018-12-02T17:23:21Z",
     updated_at: "2020-06-10T17:41:05Z",
     pushed_at: "2018-12-02T17:28:19Z",
@@ -10027,17 +10027,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -10046,77 +10046,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup",
     forks_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/forks",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/teams",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/hooks",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/events",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/tags",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/languages",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/stargazers",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/contributors",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/subscribers",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/subscription",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/merges",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/downloads",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/issues{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/labels{/name}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/releases{/id}",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/deployments",
+        "https://api.github.com/repos/john-smilga/js-zomatoAPI-setup/deployments",
     created_at: "2018-12-02T17:31:21Z",
     updated_at: "2019-10-11T18:18:41Z",
     pushed_at: "2018-12-02T17:32:44Z",
@@ -10161,17 +10161,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -10180,77 +10180,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/node-basics-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/forks",
+        "https://api.github.com/repos/john-smilga/node-basics-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/teams",
+        "https://api.github.com/repos/john-smilga/node-basics-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/hooks",
+        "https://api.github.com/repos/john-smilga/node-basics-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/events",
+        "https://api.github.com/repos/john-smilga/node-basics-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/tags",
+        "https://api.github.com/repos/john-smilga/node-basics-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/languages",
+        "https://api.github.com/repos/john-smilga/node-basics-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/stargazers",
+        "https://api.github.com/repos/john-smilga/node-basics-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/contributors",
+        "https://api.github.com/repos/john-smilga/node-basics-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/subscribers",
+        "https://api.github.com/repos/john-smilga/node-basics-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/subscription",
+        "https://api.github.com/repos/john-smilga/node-basics-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/merges",
+        "https://api.github.com/repos/john-smilga/node-basics-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/downloads",
+        "https://api.github.com/repos/john-smilga/node-basics-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/node-basics-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/node-basics-project/deployments",
+        "https://api.github.com/repos/john-smilga/node-basics-project/deployments",
     created_at: "2019-01-16T05:13:50Z",
     updated_at: "2019-10-11T18:17:24Z",
     pushed_at: "2019-01-16T05:14:13Z",
@@ -10295,17 +10295,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -10314,77 +10314,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/node-setup-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/forks",
+        "https://api.github.com/repos/john-smilga/node-setup-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/teams",
+        "https://api.github.com/repos/john-smilga/node-setup-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/hooks",
+        "https://api.github.com/repos/john-smilga/node-setup-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/events",
+        "https://api.github.com/repos/john-smilga/node-setup-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/tags",
+        "https://api.github.com/repos/john-smilga/node-setup-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/languages",
+        "https://api.github.com/repos/john-smilga/node-setup-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/stargazers",
+        "https://api.github.com/repos/john-smilga/node-setup-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/contributors",
+        "https://api.github.com/repos/john-smilga/node-setup-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/subscribers",
+        "https://api.github.com/repos/john-smilga/node-setup-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/subscription",
+        "https://api.github.com/repos/john-smilga/node-setup-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/merges",
+        "https://api.github.com/repos/john-smilga/node-setup-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/downloads",
+        "https://api.github.com/repos/john-smilga/node-setup-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/node-setup-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/node-setup-project/deployments",
+        "https://api.github.com/repos/john-smilga/node-setup-project/deployments",
     created_at: "2019-01-15T07:47:03Z",
     updated_at: "2019-10-11T18:17:25Z",
     pushed_at: "2019-01-15T07:47:36Z",
@@ -10429,17 +10429,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -10448,77 +10448,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/question-udemy-gatsby",
     forks_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/forks",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/teams",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/hooks",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/events",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/tags",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/languages",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/stargazers",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/contributors",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/subscribers",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/subscription",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/comments{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/merges",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/downloads",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/issues{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/labels{/name}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/releases{/id}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby/deployments",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby/deployments",
     created_at: "2019-12-26T18:14:24Z",
     updated_at: "2020-01-04T14:37:11Z",
     pushed_at: "2019-12-26T18:15:14Z",
@@ -10569,17 +10569,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -10587,86 +10587,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course",
     forks_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/forks",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/teams",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/hooks",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/events",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/tags",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/languages",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/stargazers",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/contributors",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/subscribers",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/subscription",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/comments{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/merges",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/downloads",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/issues{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/labels{/name}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/releases{/id}",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/deployments",
+        "https://api.github.com/repos/john-smilga/question-udemy-gatsby-course/deployments",
     created_at: "2020-04-18T22:16:50Z",
     updated_at: "2020-04-18T22:17:49Z",
     pushed_at: "2020-04-18T22:17:46Z",
     git_url: "git://github.com/john-smilga/question-udemy-gatsby-course.git",
     ssh_url: "git@github.com:john-smilga/question-udemy-gatsby-course.git",
     clone_url:
-      "https://github.com/john-smilga/question-udemy-gatsby-course.git",
+        "https://github.com/john-smilga/question-udemy-gatsby-course.git",
     svn_url: "https://github.com/john-smilga/question-udemy-gatsby-course",
     homepage: null,
     size: 517,
@@ -10711,17 +10711,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -10731,70 +10731,70 @@ export default [
     url: "https://api.github.com/repos/john-smilga/random-stuff",
     forks_url: "https://api.github.com/repos/john-smilga/random-stuff/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/random-stuff/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/random-stuff/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/random-stuff/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/random-stuff/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/random-stuff/issues/events{/number}",
     events_url: "https://api.github.com/repos/john-smilga/random-stuff/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/random-stuff/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/random-stuff/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/random-stuff/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/random-stuff/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/random-stuff/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/random-stuff/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/random-stuff/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/random-stuff/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/languages",
+        "https://api.github.com/repos/john-smilga/random-stuff/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/stargazers",
+        "https://api.github.com/repos/john-smilga/random-stuff/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/contributors",
+        "https://api.github.com/repos/john-smilga/random-stuff/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/subscribers",
+        "https://api.github.com/repos/john-smilga/random-stuff/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/subscription",
+        "https://api.github.com/repos/john-smilga/random-stuff/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/random-stuff/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/random-stuff/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/comments{/number}",
+        "https://api.github.com/repos/john-smilga/random-stuff/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/random-stuff/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/random-stuff/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/random-stuff/compare/{base}...{head}",
     merges_url: "https://api.github.com/repos/john-smilga/random-stuff/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/random-stuff/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/downloads",
+        "https://api.github.com/repos/john-smilga/random-stuff/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/issues{/number}",
+        "https://api.github.com/repos/john-smilga/random-stuff/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/random-stuff/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/random-stuff/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/random-stuff/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/labels{/name}",
+        "https://api.github.com/repos/john-smilga/random-stuff/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/releases{/id}",
+        "https://api.github.com/repos/john-smilga/random-stuff/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/random-stuff/deployments",
+        "https://api.github.com/repos/john-smilga/random-stuff/deployments",
     created_at: "2018-12-29T09:43:06Z",
     updated_at: "2019-10-11T18:17:34Z",
     pushed_at: "2018-12-29T09:44:25Z",
@@ -10845,17 +10845,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -10864,77 +10864,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-beach-resort-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/forks",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/teams",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/hooks",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/events",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/tags",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/languages",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/stargazers",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/contributors",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/subscribers",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/subscription",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/merges",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/downloads",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-beach-resort-project/deployments",
+        "https://api.github.com/repos/john-smilga/react-beach-resort-project/deployments",
     created_at: "2019-04-28T20:36:32Z",
     updated_at: "2020-06-22T07:51:45Z",
     pushed_at: "2020-06-06T15:29:37Z",
@@ -10979,17 +10979,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -10998,77 +10998,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-city-tours-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/forks",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/teams",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/hooks",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/events",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/tags",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/languages",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/stargazers",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/contributors",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/subscribers",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/subscription",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/merges",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/downloads",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-city-tours-project/deployments",
+        "https://api.github.com/repos/john-smilga/react-city-tours-project/deployments",
     created_at: "2019-03-03T21:02:11Z",
     updated_at: "2020-02-26T07:42:22Z",
     pushed_at: "2019-03-04T00:42:43Z",
@@ -11113,17 +11113,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -11132,77 +11132,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-cocktailsdb-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/forks",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/teams",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/hooks",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/events",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/tags",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/languages",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/stargazers",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/contributors",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/subscribers",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/subscription",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/merges",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/downloads",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/deployments",
+        "https://api.github.com/repos/john-smilga/react-cocktailsdb-project/deployments",
     created_at: "2019-12-07T00:39:14Z",
     updated_at: "2020-06-13T16:41:14Z",
     pushed_at: "2019-12-11T18:10:48Z",
@@ -11247,17 +11247,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -11266,77 +11266,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-e-commerce-v2",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/forks",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/teams",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/hooks",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/events",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/tags",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/languages",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/stargazers",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/contributors",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/subscribers",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/subscription",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/merges",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/downloads",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-e-commerce-v2/deployments",
+        "https://api.github.com/repos/john-smilga/react-e-commerce-v2/deployments",
     created_at: "2019-11-20T17:49:19Z",
     updated_at: "2020-03-10T17:24:07Z",
     pushed_at: "2019-11-25T22:25:11Z",
@@ -11381,109 +11381,109 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/react-fourth-project-hotel-room-search",
+        "https://github.com/john-smilga/react-fourth-project-hotel-room-search",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/forks",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/teams",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/hooks",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/events",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/tags",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/languages",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/stargazers",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/contributors",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/subscribers",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/subscription",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/merges",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/downloads",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/deployments",
+        "https://api.github.com/repos/john-smilga/react-fourth-project-hotel-room-search/deployments",
     created_at: "2018-11-04T21:46:49Z",
     updated_at: "2019-10-11T18:18:57Z",
     pushed_at: "2018-11-06T07:16:17Z",
     git_url:
-      "git://github.com/john-smilga/react-fourth-project-hotel-room-search.git",
+        "git://github.com/john-smilga/react-fourth-project-hotel-room-search.git",
     ssh_url:
-      "git@github.com:john-smilga/react-fourth-project-hotel-room-search.git",
+        "git@github.com:john-smilga/react-fourth-project-hotel-room-search.git",
     clone_url:
-      "https://github.com/john-smilga/react-fourth-project-hotel-room-search.git",
+        "https://github.com/john-smilga/react-fourth-project-hotel-room-search.git",
     svn_url:
-      "https://github.com/john-smilga/react-fourth-project-hotel-room-search",
+        "https://github.com/john-smilga/react-fourth-project-hotel-room-search",
     homepage: null,
     size: 150,
     stargazers_count: 1,
@@ -11521,106 +11521,106 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/react-hooks-budged-calculator-app",
+        "https://github.com/john-smilga/react-hooks-budged-calculator-app",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/forks",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/teams",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/hooks",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/events",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/tags",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/languages",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/stargazers",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/contributors",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/subscribers",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/subscription",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/merges",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/downloads",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/deployments",
+        "https://api.github.com/repos/john-smilga/react-hooks-budged-calculator-app/deployments",
     created_at: "2019-07-07T15:39:05Z",
     updated_at: "2020-06-22T16:49:13Z",
     pushed_at: "2020-06-07T00:25:00Z",
     git_url:
-      "git://github.com/john-smilga/react-hooks-budged-calculator-app.git",
+        "git://github.com/john-smilga/react-hooks-budged-calculator-app.git",
     ssh_url: "git@github.com:john-smilga/react-hooks-budged-calculator-app.git",
     clone_url:
-      "https://github.com/john-smilga/react-hooks-budged-calculator-app.git",
+        "https://github.com/john-smilga/react-hooks-budged-calculator-app.git",
     svn_url: "https://github.com/john-smilga/react-hooks-budged-calculator-app",
     homepage: null,
     size: 736,
@@ -11659,17 +11659,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -11678,77 +11678,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-luxury-hotel",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/forks",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/teams",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/hooks",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/events",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/tags",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/languages",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/stargazers",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/contributors",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/subscribers",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/subscription",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/merges",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/downloads",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-luxury-hotel/deployments",
+        "https://api.github.com/repos/john-smilga/react-luxury-hotel/deployments",
     created_at: "2019-03-07T04:59:47Z",
     updated_at: "2020-06-10T17:40:38Z",
     pushed_at: "2019-03-07T20:51:00Z",
@@ -11793,17 +11793,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -11812,77 +11812,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-person-list-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/forks",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/teams",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/hooks",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/events",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/tags",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/languages",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/stargazers",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/contributors",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/subscribers",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/subscription",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/merges",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/downloads",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-person-list-project/deployments",
+        "https://api.github.com/repos/john-smilga/react-person-list-project/deployments",
     created_at: "2018-10-28T21:40:45Z",
     updated_at: "2020-06-10T17:40:50Z",
     pushed_at: "2019-03-02T06:23:34Z",
@@ -11927,17 +11927,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -11945,86 +11945,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/forks",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/teams",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/hooks",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/events",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/tags",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/languages",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/stargazers",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/contributors",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/subscribers",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/subscription",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/merges",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/downloads",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/deployments",
+        "https://api.github.com/repos/john-smilga/react-phone-e-commerce-project/deployments",
     created_at: "2018-12-17T09:23:03Z",
     updated_at: "2020-06-17T15:06:30Z",
     pushed_at: "2019-02-02T19:48:49Z",
     git_url: "git://github.com/john-smilga/react-phone-e-commerce-project.git",
     ssh_url: "git@github.com:john-smilga/react-phone-e-commerce-project.git",
     clone_url:
-      "https://github.com/john-smilga/react-phone-e-commerce-project.git",
+        "https://github.com/john-smilga/react-phone-e-commerce-project.git",
     svn_url: "https://github.com/john-smilga/react-phone-e-commerce-project",
     homepage: null,
     size: 429,
@@ -12063,17 +12063,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -12082,77 +12082,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-project5-portfolio",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/forks",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/teams",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/hooks",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/events",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/tags",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/languages",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/stargazers",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/contributors",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/subscribers",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/subscription",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/merges",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/downloads",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-project5-portfolio/deployments",
+        "https://api.github.com/repos/john-smilga/react-project5-portfolio/deployments",
     created_at: "2018-11-09T00:48:02Z",
     updated_at: "2019-10-11T18:18:55Z",
     pushed_at: "2018-11-09T01:03:28Z",
@@ -12197,17 +12197,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -12217,72 +12217,72 @@ export default [
     url: "https://api.github.com/repos/john-smilga/react-question",
     forks_url: "https://api.github.com/repos/john-smilga/react-question/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-question/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-question/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-question/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-question/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/react-question/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/react-question/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-question/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-question/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-question/events",
+        "https://api.github.com/repos/john-smilga/react-question/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-question/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-question/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-question/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-question/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/react-question/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-question/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-question/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-question/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-question/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-question/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-question/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-question/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-question/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-question/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-question/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-question/languages",
+        "https://api.github.com/repos/john-smilga/react-question/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-question/stargazers",
+        "https://api.github.com/repos/john-smilga/react-question/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-question/contributors",
+        "https://api.github.com/repos/john-smilga/react-question/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-question/subscribers",
+        "https://api.github.com/repos/john-smilga/react-question/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-question/subscription",
+        "https://api.github.com/repos/john-smilga/react-question/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-question/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-question/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-question/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-question/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-question/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-question/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-question/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-question/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-question/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-question/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-question/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-question/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-question/merges",
+        "https://api.github.com/repos/john-smilga/react-question/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-question/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-question/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-question/downloads",
+        "https://api.github.com/repos/john-smilga/react-question/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-question/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-question/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-question/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-question/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-question/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-question/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-question/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-question/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-question/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-question/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-question/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-question/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-question/deployments",
+        "https://api.github.com/repos/john-smilga/react-question/deployments",
     created_at: "2019-04-09T17:01:35Z",
     updated_at: "2019-10-11T18:21:11Z",
     pushed_at: "2019-04-09T17:02:05Z",
@@ -12327,17 +12327,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -12346,77 +12346,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-recipe-search-project",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/forks",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/teams",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/hooks",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/events",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/tags",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/languages",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/stargazers",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/contributors",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/subscribers",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/subscription",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/merges",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/downloads",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-recipe-search-project/deployments",
+        "https://api.github.com/repos/john-smilga/react-recipe-search-project/deployments",
     created_at: "2018-12-11T08:49:33Z",
     updated_at: "2020-04-28T21:15:41Z",
     pushed_at: "2018-12-29T19:59:28Z",
@@ -12461,17 +12461,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -12479,87 +12479,87 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/forks",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/teams",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/hooks",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/events",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/tags",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/languages",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/stargazers",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/contributors",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/subscribers",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/subscription",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/merges",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/downloads",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-revised-recipe-application/deployments",
+        "https://api.github.com/repos/john-smilga/react-revised-recipe-application/deployments",
     created_at: "2019-03-10T00:19:57Z",
     updated_at: "2019-12-12T21:02:45Z",
     pushed_at: "2019-03-10T00:20:44Z",
     git_url:
-      "git://github.com/john-smilga/react-revised-recipe-application.git",
+        "git://github.com/john-smilga/react-revised-recipe-application.git",
     ssh_url: "git@github.com:john-smilga/react-revised-recipe-application.git",
     clone_url:
-      "https://github.com/john-smilga/react-revised-recipe-application.git",
+        "https://github.com/john-smilga/react-revised-recipe-application.git",
     svn_url: "https://github.com/john-smilga/react-revised-recipe-application",
     homepage: null,
     size: 409,
@@ -12598,17 +12598,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -12617,76 +12617,76 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-tech-store",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/forks",
+        "https://api.github.com/repos/john-smilga/react-tech-store/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/teams",
+        "https://api.github.com/repos/john-smilga/react-tech-store/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/hooks",
+        "https://api.github.com/repos/john-smilga/react-tech-store/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/events",
+        "https://api.github.com/repos/john-smilga/react-tech-store/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/react-tech-store/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/languages",
+        "https://api.github.com/repos/john-smilga/react-tech-store/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/stargazers",
+        "https://api.github.com/repos/john-smilga/react-tech-store/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/contributors",
+        "https://api.github.com/repos/john-smilga/react-tech-store/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/subscribers",
+        "https://api.github.com/repos/john-smilga/react-tech-store/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/subscription",
+        "https://api.github.com/repos/john-smilga/react-tech-store/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/merges",
+        "https://api.github.com/repos/john-smilga/react-tech-store/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/downloads",
+        "https://api.github.com/repos/john-smilga/react-tech-store/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-tech-store/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-tech-store/deployments",
+        "https://api.github.com/repos/john-smilga/react-tech-store/deployments",
     created_at: "2019-03-12T09:01:26Z",
     updated_at: "2020-06-13T16:41:32Z",
     pushed_at: "2019-03-30T04:24:55Z",
@@ -12731,17 +12731,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -12749,86 +12749,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/forks",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/teams",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/hooks",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/events",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/tags",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/languages",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/stargazers",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/contributors",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/subscribers",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/subscription",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/merges",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/downloads",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-third-project-todo-list/deployments",
+        "https://api.github.com/repos/john-smilga/react-third-project-todo-list/deployments",
     created_at: "2018-11-01T05:40:43Z",
     updated_at: "2019-10-11T18:19:01Z",
     pushed_at: "2018-11-01T05:48:40Z",
     git_url: "git://github.com/john-smilga/react-third-project-todo-list.git",
     ssh_url: "git@github.com:john-smilga/react-third-project-todo-list.git",
     clone_url:
-      "https://github.com/john-smilga/react-third-project-todo-list.git",
+        "https://github.com/john-smilga/react-third-project-todo-list.git",
     svn_url: "https://github.com/john-smilga/react-third-project-todo-list",
     homepage: null,
     size: 139,
@@ -12867,17 +12867,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -12886,77 +12886,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/react-timestamp-app",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/forks",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/teams",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/hooks",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/events",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/tags",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/languages",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/stargazers",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/contributors",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/subscribers",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/subscription",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/merges",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/downloads",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-timestamp-app/deployments",
+        "https://api.github.com/repos/john-smilga/react-timestamp-app/deployments",
     created_at: "2020-03-21T19:13:18Z",
     updated_at: "2020-05-02T19:19:04Z",
     pushed_at: "2020-05-02T19:19:02Z",
@@ -13001,17 +13001,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -13021,72 +13021,72 @@ export default [
     url: "https://api.github.com/repos/john-smilga/react-todo-list",
     forks_url: "https://api.github.com/repos/john-smilga/react-todo-list/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/collaborators{/collaborator}",
     teams_url: "https://api.github.com/repos/john-smilga/react-todo-list/teams",
     hooks_url: "https://api.github.com/repos/john-smilga/react-todo-list/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/events",
+        "https://api.github.com/repos/john-smilga/react-todo-list/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/branches{/branch}",
     tags_url: "https://api.github.com/repos/john-smilga/react-todo-list/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/languages",
+        "https://api.github.com/repos/john-smilga/react-todo-list/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/stargazers",
+        "https://api.github.com/repos/john-smilga/react-todo-list/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/contributors",
+        "https://api.github.com/repos/john-smilga/react-todo-list/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/subscribers",
+        "https://api.github.com/repos/john-smilga/react-todo-list/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/subscription",
+        "https://api.github.com/repos/john-smilga/react-todo-list/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/merges",
+        "https://api.github.com/repos/john-smilga/react-todo-list/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/downloads",
+        "https://api.github.com/repos/john-smilga/react-todo-list/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-todo-list/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-todo-list/deployments",
+        "https://api.github.com/repos/john-smilga/react-todo-list/deployments",
     created_at: "2018-12-01T05:03:13Z",
     updated_at: "2020-06-02T09:17:44Z",
     pushed_at: "2018-12-01T05:04:03Z",
@@ -13131,109 +13131,109 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
     html_url:
-      "https://github.com/john-smilga/react-udemy-vintage-tech-extra-fetures",
+        "https://github.com/john-smilga/react-udemy-vintage-tech-extra-fetures",
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures",
     forks_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/forks",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/teams",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/hooks",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/events",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/tags",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/languages",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/stargazers",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/contributors",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/subscribers",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/subscription",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/merges",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/downloads",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/issues{/number}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/labels{/name}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/releases{/id}",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/deployments",
+        "https://api.github.com/repos/john-smilga/react-udemy-vintage-tech-extra-fetures/deployments",
     created_at: "2019-12-31T20:01:26Z",
     updated_at: "2020-06-16T12:23:40Z",
     pushed_at: "2020-02-04T20:22:10Z",
     git_url:
-      "git://github.com/john-smilga/react-udemy-vintage-tech-extra-fetures.git",
+        "git://github.com/john-smilga/react-udemy-vintage-tech-extra-fetures.git",
     ssh_url:
-      "git@github.com:john-smilga/react-udemy-vintage-tech-extra-fetures.git",
+        "git@github.com:john-smilga/react-udemy-vintage-tech-extra-fetures.git",
     clone_url:
-      "https://github.com/john-smilga/react-udemy-vintage-tech-extra-fetures.git",
+        "https://github.com/john-smilga/react-udemy-vintage-tech-extra-fetures.git",
     svn_url:
-      "https://github.com/john-smilga/react-udemy-vintage-tech-extra-fetures",
+        "https://github.com/john-smilga/react-udemy-vintage-tech-extra-fetures",
     homepage: null,
     size: 292,
     stargazers_count: 5,
@@ -13271,17 +13271,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -13290,77 +13290,77 @@ export default [
     fork: false,
     url: "https://api.github.com/repos/john-smilga/redux-tutorial-cart",
     forks_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/forks",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/teams",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/hooks",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/events",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/tags",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/languages",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/stargazers",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/contributors",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/subscribers",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/subscription",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/comments{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/merges",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/downloads",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/issues{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/labels{/name}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/releases{/id}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-cart/deployments",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-cart/deployments",
     created_at: "2020-03-16T17:10:35Z",
     updated_at: "2020-06-14T04:03:03Z",
     pushed_at: "2020-03-19T03:43:05Z",
@@ -13405,17 +13405,17 @@ export default [
       html_url: "https://github.com/john-smilga",
       followers_url: "https://api.github.com/users/john-smilga/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
+          "https://api.github.com/users/john-smilga/following{/other_user}",
       gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+          "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
+          "https://api.github.com/users/john-smilga/subscriptions",
       organizations_url: "https://api.github.com/users/john-smilga/orgs",
       repos_url: "https://api.github.com/users/john-smilga/repos",
       events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+          "https://api.github.com/users/john-smilga/received_events",
       type: "User",
       site_admin: false,
     },
@@ -13423,86 +13423,86 @@ export default [
     description: null,
     fork: false,
     url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter",
     forks_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/forks",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/keys{/key_id}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/collaborators{/collaborator}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/collaborators{/collaborator}",
     teams_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/teams",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/teams",
     hooks_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/hooks",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/issues/events{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/events",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/assignees{/user}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/branches{/branch}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/branches{/branch}",
     tags_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/tags",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/blobs{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/tags{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/refs{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/trees{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/statuses/{sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/languages",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/stargazers",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/contributors",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/subscribers",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/subscription",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/commits{/sha}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/comments{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/issues/comments{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/contents/{+path}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/compare/{base}...{head}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/merges",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/{archive_format}{/ref}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/downloads",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/issues{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/pulls{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/milestones{/number}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/notifications{?since,all,participating}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/labels{/name}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/releases{/id}",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/deployments",
+        "https://api.github.com/repos/john-smilga/redux-tutorial-simple-counter/deployments",
     created_at: "2019-12-21T20:09:08Z",
     updated_at: "2020-06-13T16:41:36Z",
     pushed_at: "2019-12-24T00:29:25Z",
     git_url: "git://github.com/john-smilga/redux-tutorial-simple-counter.git",
     ssh_url: "git@github.com:john-smilga/redux-tutorial-simple-counter.git",
     clone_url:
-      "https://github.com/john-smilga/redux-tutorial-simple-counter.git",
+        "https://github.com/john-smilga/redux-tutorial-simple-counter.git",
     svn_url: "https://github.com/john-smilga/redux-tutorial-simple-counter",
     homepage: null,
     size: 192,

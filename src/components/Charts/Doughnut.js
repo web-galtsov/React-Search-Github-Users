@@ -46,6 +46,11 @@ const ChartComponent = ({ data }) => {
         useDataPlotColorForLabels: 0,
         bgColor: "#FFFFFF",
         showBorder: 0,
+        showlegend: "1",
+        showpercentvalues: "1",
+        usedataplotcolorforlabels: "1",
+        numberprefix: "$",
+        theme: "fusion"
       },
       // Chart Data
       data,
