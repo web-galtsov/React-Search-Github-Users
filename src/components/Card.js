@@ -2,6 +2,7 @@ import React from 'react';
 import { GithubContext } from '../context/context';
 import styled from 'styled-components';
 import { MdBusiness, MdLocationOn, MdLink } from 'react-icons/md';
+
 const Card = () => {
   const { githubUser } = React.useContext(GithubContext);
   const {
@@ -14,6 +15,7 @@ const Card = () => {
     location,
     twitter_username,
   } = githubUser;
+
   return (
     <Wrapper>
       <header>
@@ -26,16 +28,9 @@ const Card = () => {
       </header>
       <p className='bio'>{bio}</p>
       <div className='links'>
-        <p>
-          <MdBusiness></MdBusiness> {company}
-        </p>
-        <p>
-          <MdLocationOn></MdLocationOn> {location || 'earth'}
-        </p>
-        <a href={`https://${blog}`}>
-          <MdLink></MdLink>
-          {blog}
-        </a>
+        <p> <MdBusiness/> {company}</p>
+        <p> <MdLocationOn/> {location || 'earth'}</p>
+        <a href={`https://${blog}`}><MdLink/> {blog}</a>
       </div>
     </Wrapper>
   );
