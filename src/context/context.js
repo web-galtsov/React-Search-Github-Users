@@ -72,7 +72,7 @@ const GithubProvider = ({ children }) => {
     // error
     useEffect(checkRequests, []);
     // get initial user
-    useEffect(() => {
+      useEffect(() => {
         searchGithubUser('john-smilga');
     }, []);
     return (
