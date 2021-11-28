@@ -1,3 +1,7 @@
+see with result https://react-search-github-users-new.netlify.app/
+
+
+
 ## Starter Project
 
 - css provided (global styles, styled components)
@@ -112,4 +116,4 @@ package.json
 "build": "CI= react-scripts build",
 ```
 
-[create-react-app Warning Fix Blog Post](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752)
+
