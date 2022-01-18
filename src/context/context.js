@@ -9,7 +9,6 @@ const rootUrl = 'https://api.github.com';
 const GithubContext = React.createContext();
 
 // Provider, Consumer - GithubContext.Provider
-
 const GithubProvider = ({ children }) => {
     const [githubUser, setGithubUser] = useState(mockUser);
     const [repos, setRepos] = useState(mockRepos);
@@ -73,7 +72,9 @@ const GithubProvider = ({ children }) => {
     useEffect(checkRequests, []);
     // get initial user
       useEffect(() => {
-        searchGithubUser('john-smilga');
+
+        searchGithubUser('web-galtsov');
+          // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
     return (
         <GithubContext.Provider
